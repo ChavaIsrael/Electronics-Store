@@ -1,0 +1,21 @@
+.root {
+  background-color: black;
+}
+
+.cart {
+  color: rgb(255, 240, 24);
+  font-size: 17px;
+}
+
+.OverHeader {   
+  text-align: center;
+  background-color: rgb(255, 240, 24);
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.header {
+  position: sticky;
+  top: 0;
+  z-index: 2;
+}
